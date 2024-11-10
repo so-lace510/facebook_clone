@@ -1,0 +1,78 @@
+.anchor{
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.one{
+  margin-left: 15px;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.div-one-one{
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Arial;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.div-one-two{
+  font-size: 16px;
+  font-family: Arial;
+  width: 330px;
+  margin-bottom: 20px;
+  color: gray;
+}
+
+.button-four{
+  background-color: blue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 18px;
+  border: none;
+  margin-top: 15px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.button-four:hover{
+ cursor: pointer;
+}
+
+.button-five{
+  background-color: transparent;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 18px;
+  border: 1px solid gray;
+  margin-top: 15px;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.button-five:hover{
+ cursor: pointer;
+}
+
+.button-one{
+  background-color: white;
+  padding: 20px 50px 20px 15px;
+  border-radius: 10px;
+  width: 270px;
+  border: 1px solid gray;
+}
+
+.button-one:hover{
+  background-color: white;
+  padding: 10px 50px 40px 15px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}

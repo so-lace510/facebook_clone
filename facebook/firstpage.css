@@ -1,0 +1,106 @@
+.first-page{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.one{
+  font-size: 13px;
+  color: gray;
+  margin-bottom: 60px;
+  font-family: Arial;
+}
+
+.two{
+  margin-bottom: 60px;
+}
+
+.three{
+  border: 1px solid gray;
+  background-color: white;
+  color: gray;
+  padding: 16px 50px 16px 6px;
+  border-radius: 10px;
+  width: 205px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.four{
+  border: 1px solid gray;
+  background-color: white;
+  color: gray;
+  padding: 16px 50px 16px 6px;
+  border-radius: 10px;
+  width: 205px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.five{
+  border: none;
+  background-color: blue;
+  color: white;
+  border-radius: 18px;
+  width: 260px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.five:hover{
+  cursor: pointer;
+}
+
+
+.six{
+  font-size: 13px;
+  color: gray;
+  margin-bottom: 100px;
+  font-family: Arial;
+}
+
+.seven{
+  border: 1px solid blue;
+  background-color: transparent;
+  color: blue;
+  border-radius: 18px;
+  width: 260px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.seven:hover{
+  cursor: pointer;
+}
+
+.meta-image{
+  width: 40px;
+}
+
+.nine{
+  display: flex;
+}
+
+.nine-two{
+  margin-left: 6px;
+  margin-right: 6px;
+  font-size: 11px;
+  color: gray;
+  font-family: Arial;
+}
+
+.nine-one{
+  font-size: 11px;
+  color: gray;
+  font-family: Arial;
+}
+
+.nine-three{
+  font-size: 11px;
+  color: gray;
+  font-family: Arial;
+}

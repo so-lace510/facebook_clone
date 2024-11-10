@@ -1,0 +1,86 @@
+.anchor{
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.one{
+  margin-left: 15px;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.div-one-one{
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Arial;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.div-one-two{
+  font-size: 16px;
+  font-family: Arial;
+  width: 330px;
+  margin-bottom: 20px;
+  color: gray;
+}
+
+.button-three{
+  background-color: blue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 18px;
+  border: none;
+  margin-top: 15px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.button-three:hover{
+ cursor: pointer;
+}
+
+.button-four{
+  background-color: transparent;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 18px;
+  border: 1px solid gray;
+  margin-top: 15px;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.button-four:hover{
+ cursor: pointer;
+}
+
+.div-three{
+  color: blue;
+  font-family: Arial;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+}
+.anchor-two{
+  color: blue;
+  font-family: Arial;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}

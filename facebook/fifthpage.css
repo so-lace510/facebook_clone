@@ -1,0 +1,134 @@
+.anchor{
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.one{
+  margin-left: 15px;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.div-one-one{
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Arial;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.div-one-two{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 300px;
+  font-family: Arial;
+  font-size: 15px;
+  line-height: 18px;
+  margin-bottom: 20px;
+ }
+
+.button-one{
+  display: flex;
+  align-items: center;
+  padding: 10px 6px 15px 8px;
+  width: 300px;
+  border-radius: 10px;
+  border: none;
+}
+
+.input-one{
+  margin-left: 215px;
+  border-radius: 50px;
+}
+
+.button-two{
+  display: flex;
+  align-items: center;
+  padding: 10px 8px 10px 8px;
+  width: 300px;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  border-left: none;
+  border-right: none;
+  margin-top: -4px;
+  margin-bottom: 0;
+  z-index: 100;
+  position: absolute;
+}
+
+.input-two{
+  margin-left: 230px;
+  border-radius: 50px;
+}
+
+.button-three{
+  display: flex;
+  align-items: center;
+  text-align: left;
+  padding: 15px 8px 10px 8px;
+  width: 300px;
+  border-radius: 10px;
+  margin-top: 30px;
+  border: none;
+}
+
+.input-three{
+  margin-left: 40px;
+  border-radius: 50px;
+
+}
+
+.three-one-two{
+  line-height: 16px;
+  width: 220px;
+  color: gray;
+  font-size: 13px;
+}
+
+.button-four{
+  background-color: blue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 18px;
+  border: none;
+  margin-top: 15px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.button-four:hover{
+  cursor: pointer;
+}
+
+.div-three{
+  margin-top: 300px;
+  color: blue;
+  font-family: Arial;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  text-align: center;
+
+}
+.anchor-two{
+  color: blue;
+  font-family: Arial;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+ 

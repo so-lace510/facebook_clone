@@ -1,0 +1,102 @@
+.anchor{
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.one{
+  margin-left: 15px;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.div-one-one{
+  font-weight: bold;
+  font-size: 25px;
+  width: 330px;
+  font-family: Arial;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.one-div{
+  font-size: 13px;
+  font-family: Arial;
+  width: 250px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.two{
+  font-size: 13px;
+  font-family: Arial;
+  width: 230px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.three{
+  font-size: 13px;
+  font-family: Arial;
+  width: 260px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.four{
+  font-size: 13px;
+  font-family: Arial;
+  width: 270px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.button-three{
+  background-color: blue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 18px;
+  border: none;
+  margin-top: 15px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.button-three:hover{
+ cursor: pointer;
+}
+
+.div-three{
+  color: blue;
+  font-family: Arial;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+}
+
+.anchor-two{
+  color: blue;
+  font-family: Arial;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.general{
+  width: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}

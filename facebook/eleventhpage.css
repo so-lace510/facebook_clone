@@ -1,0 +1,97 @@
+.anchor{
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.one{
+  margin-left: 15px;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.div-one-one{
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Arial;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.div-one-two{
+  font-size: 16px;
+  font-family: Arial;
+  width: 330px;
+  margin-bottom: 20px;
+  color: gray;
+}
+
+
+.button-two{
+  display: flex;
+  align-items: center;
+  text-align: left;
+  padding: 10px 8px 10px 8px;
+  width: 300px;
+  border: none;
+  border-radius: 10px 10px 0 0;
+  border-bottom: 1px solid gray ;
+  z-index: 100;
+  border-left: none;
+  border-right: none;
+  margin-bottom: -4px;
+  position: absolute;
+}
+
+.input-two{
+  margin-left: 90px;
+  border-radius: 50px;
+}
+
+.button-three{
+  display: flex;
+  align-items: center;
+  text-align: left;
+  position: absolute;
+  padding: 25px 8px 15px 8px;
+  width: 300px;
+  border-radius: 10px;
+  margin-top: 30px;
+  border: none;
+}
+
+.input-three{
+  margin-left: 105px;
+  border-radius: 50px;
+
+}
+
+.button-four{
+  background-color: blue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 18px;
+  border: none;
+  margin-top: 125px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  width: 100%;
+  position: absolute;
+}
+
+.button-four:hover{
+ cursor: pointer;
+}
+
+.div-one-three{
+  display: flex;
+  align-items: center;
+}
+
+.three-one-two{
+  font-size: 11px;
+  color: gray;
+}

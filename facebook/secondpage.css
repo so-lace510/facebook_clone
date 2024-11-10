@@ -1,0 +1,82 @@
+.anchor{
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.one{
+  margin-left: 15px;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.two{
+  margin-left: 15px;
+  margin-top: 25px;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 30px;
+}
+
+.image-one{
+  width: 100%;
+ object-fit: cover;
+ margin-bottom: 15px;
+}
+
+.three{
+ display: flex;
+ flex-direction: column;
+ flex: 1;
+ width: 300px;
+ font-family: Arial;
+ font-size: 15px;
+}
+
+.button-one{
+  width: 100%;
+  margin-top: 15px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  border-radius: 18px;
+}
+
+.button-two{
+  width: 100%;
+  margin-top: 15px;
+  background-color: transparent;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid gray;
+  border-radius: 18px;
+}
+
+.button-one:hover{
+  cursor: pointer;
+}
+
+.button-two:hover{
+  cursor: pointer;
+}
+
+.div-one{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.div-one-one{
+  display: flex;
+  flex-direction: column;
+}
+
